@@ -1,0 +1,16 @@
+pytest tests/
+
+
+---
+
+# 📦 requirements.txt
+
+```txt
+openai
+langchain
+faiss-cpu
+pydantic
+python-dotenv
+tenacity
+tqdm
+requests
