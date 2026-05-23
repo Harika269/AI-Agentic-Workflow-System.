@@ -1,0 +1,21 @@
+ai-agentic-workflow/
+│
+├── README.md
+├── requirements.txt
+│
+├── app/
+│   ├── main.py
+│   ├── agent.py
+│   ├── enrich.py
+│   ├── vectorstore.py
+│   ├── evaluator.py
+│   ├── pipeline.py
+│   ├── schemas.py
+│   └── utils.py
+│
+├── data/
+│   ├── sample_input.json
+│   └── knowledge_base.txt
+│
+└── tests/
+    └── test_pipeline.py
