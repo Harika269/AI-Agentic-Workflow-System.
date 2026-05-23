@@ -1,0 +1,6 @@
+Python
+FAISS
+LangChain-style patterns
+OpenAI API (or any LLM API)
+Pydantic
+Tenacity (retry logic)
